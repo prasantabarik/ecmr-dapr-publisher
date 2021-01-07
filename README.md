@@ -1,1 +1,1 @@
-# ecmr-dapr-publisher
+# ecmrpublisher
